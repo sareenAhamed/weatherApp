@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sareenAhamed/weatherApp/static/css/main.91ce42a7.css",
+    "main.js": "/sareenAhamed/weatherApp/static/js/main.451aa98d.js",
+    "static/js/453.63261c35.chunk.js": "/sareenAhamed/weatherApp/static/js/453.63261c35.chunk.js",
+    "static/media/cloud.png": "/sareenAhamed/weatherApp/static/media/cloud.20f353f873a9b27949a9.png",
+    "index.html": "/sareenAhamed/weatherApp/index.html",
+    "main.91ce42a7.css.map": "/sareenAhamed/weatherApp/static/css/main.91ce42a7.css.map",
+    "main.451aa98d.js.map": "/sareenAhamed/weatherApp/static/js/main.451aa98d.js.map",
+    "453.63261c35.chunk.js.map": "/sareenAhamed/weatherApp/static/js/453.63261c35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91ce42a7.css",
+    "static/js/main.451aa98d.js"
+  ]
+}
